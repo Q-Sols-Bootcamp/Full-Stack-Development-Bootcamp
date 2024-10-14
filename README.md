@@ -35,9 +35,6 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
 - [Tailwind CSS Full Course 2023](https://www.youtube.com/watch?v=tS7upsfuxmo)
 
-#TASK
-- [Create a responsive single web page using HTML & CSS](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
-
 ## Design for developers
 
 Your role as front-end developer is not to design user interfaces but to build it. with that being said I recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
@@ -94,7 +91,6 @@ In web development means enabling as **many people as possible** to use websites
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
   #TASK
- - [Build a responsive React Website with Tailwind CSS](https://www.youtube.com/watch?v=TVQnhcVFTVs)
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
  - [Learn Redux Toolkit in under 1 hour](https://www.youtube.com/watch?v=pX0SBJF01EU)
  - [How To Create Complete Ecommerce Website Using React JS Step by Step Tutorial 2023](https://www.youtube.com/watch?v=jbfuzcrfjqQ)
@@ -149,12 +145,83 @@ In web development means enabling as **many people as possible** to use websites
 <img src="https://images-na.ssl-images-amazon.com/images/I/91EeModnt9L.jpg" width="40%" height="50%"/>
 
 
+
+# Backend Roadmap
+
+In the backend we are going to use nodejs which is an enviroment for executing javaascript code on your machine.
+
+## Nodejs (1 week)
+
+- [Node.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
+- [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
+- [Learn The MERN Stack - Express & MongoDB Rest API](https://www.youtube.com/watch?v=-0exw-9YJBo)
+- [Events and Event Emitter in Node.js](https://www.youtube.com/watch?v=l20MBBFZAmA&feature=emb_title)
+- [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+- [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [Semantic Versioning](https://semver.org/)
+- [2.5 cors, json, jsonp - undergrad webdev summer 1 2017
+  ](https://www.youtube.com/watch?v=stvCHJZq5MI)
+
+
+  ## Creating Restful APIs (1 week)
+
+- [What is REST](https://restfulapi.net/)
+- [Web API design - Azure docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9#comment-4865610272)
+- [REST API By Roy T.Fielding](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+- Error Handling in REST APIs
+  - [Problem Details for HTTP APIs - RFC 7807](https://tools.ietf.org/html/rfc7807)
+  - [Standard Error Responses - Google](https://developers.google.com/search-ads/v2/standard-error-responses)
+  - [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
+- [jsonapi](http://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
+- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+## Next.js with TypeScript (2 week)
+
+Focus on the **Page Router** (select no for **App Router** on the ```npx create-next-app@latest  ``` command.
+![image](https://github.com/HassanShanJava/fullstack-roadmap/assets/55858014/e3071ceb-66c7-48ca-bca4-be5f7f07ea3e)
+- [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw)
+- [How to Build Scalable Architecture for your Next.js Project](https://www.youtube.com/watch?v=Iu5aZDqZt8E)
+  **T3 Stack**
+- [T3: TRPC, Prisma and NextAuth Done Right](https://www.youtube.com/watch?v=J1gzN1SAhyM)
+- [T3 Stack Tutorial - Let's Build a CRUD Application](https://www.youtube.com/watch?v=ozh4a8kow-w)
+
+For the **App router**, you need to experience how to make these projects.
+- [Next.js 14 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework](https://www.youtube.com/watch?v=wm5gMKuwSYk&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=1)
+- [Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS](https://www.youtube.com/watch?v=pUNSHPyVryU)
+- [Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL](https://www.youtube.com/watch?v=pRybm9lXW2c)
+- [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
+
+
 ## UI Component Libaries
 - [Shadcn UI (Radxi UI + Tailwind CSS)](https://ui.shadcn.com/)
 - [PrimeReact - React UI Component Library](https://primereact.org/)
 - [Tailwind UI](https://edson-tailwind-ui.netlify.app/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Chakra UI](https://chakra-ui.com/)
+
+## NoSQL Databases (1 week)
+
+- [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [MongoDB Complete Introduction & Summary](https://www.youtube.com/watch?v=VELru-FCWDM)
+- [Data Modeling Introduction](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
+- [Mongodb the Definitive Guide](https://www.amazon.co.uk/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449344682) - A great book for learning MongoDB in a great details.
+- [Data Modeling with MongoDB](https://www.youtube.com/watch?v=yuPjoC3jmPA)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/71s-VDnaRGL.jpg" width="40%" height="50%"/>
+
+## ORM: Prisma ORM
+
+- [Prisma docs](https://www.prisma.io/docs/getting-started)
+- [How to use Prisma in a Next.js app](https://daily.dev/blog/nextjs-with-prisma)
+- [Prisma —A Great ORM for Typescript](https://medium.com/short-bits/prisma-an-great-orm-for-typescript-2853e6e48fcd)
+- [Prisma schema](https://www.prisma.io/docs/orm/prisma-schema)
+
+## Logging
+
+- [A Guide to Node.js Logging
+  ](https://www.twilio.com/blog/guide-node-js-logging)
+- [The Cost of Logging - Matteo Collina, nearForm](https://www.youtube.com/watch?v=Dnx2SPdcDSU&t=820s)
 
 ## Validation
 
