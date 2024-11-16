@@ -5,9 +5,6 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 ![screely-1621816127208](https://user-images.githubusercontent.com/50620277/120562655-7ddb2700-c40f-11eb-94db-c64e100f2953.png)
 
 
-# Front-End Roadmap
-
-
 ## HTML (1/3 week) 
 
 - [Semantic HTML (Free)](https://www.freecodecamp.org/news/semantic-html5-elements/) - Semantic HTML is really important for accessibility and SEO reasons.
@@ -35,7 +32,10 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
 - [Tailwind CSS Full Course 2023](https://www.youtube.com/watch?v=tS7upsfuxmo)
 
-## Design for developers
+## TASK
+- [Create a responsive single web page using HTML & CSS](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
+
+## Design for developers - reading material
 
 Your role as front-end developer is not to design user interfaces but to build it. with that being said I recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
 
@@ -86,11 +86,13 @@ In web development means enabling as **many people as possible** to use websites
 ## React (1.5 week)
 
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) - the web development industry is moving more towered a component-orianted way of developing user interfaces. this article will shows you how to think of components.
-- [React Docs]([https://reactjs.org/docs/getting-started.html](https://react.dev/)) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
+- [React Docs](https://react.dev/) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
 - [React Resources](https://reactresources.com/) - Articles, podcasts, conferences, books.
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-  #TASK
+  ## TASK
+ - [Build a responsive React Website with Tailwind CSS](https://www.youtube.com/watch?v=TVQnhcVFTVs)
+ - [Build a responsive React Website with Tailwind CSS and Routes](https://www.youtube.com/watch?v=JE3w48KeSZ8)
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
  - [Learn Redux Toolkit in under 1 hour](https://www.youtube.com/watch?v=pX0SBJF01EU)
  - [How To Create Complete Ecommerce Website Using React JS Step by Step Tutorial 2023](https://www.youtube.com/watch?v=jbfuzcrfjqQ)
