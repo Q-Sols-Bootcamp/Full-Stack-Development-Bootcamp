@@ -96,6 +96,7 @@ In web development means enabling as **many people as possible** to use websites
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
  - [Learn Redux Toolkit in under 1 hour](https://www.youtube.com/watch?v=pX0SBJF01EU)
  - [How To Create Complete Ecommerce Website Using React JS Step by Step Tutorial 2023](https://www.youtube.com/watch?v=jbfuzcrfjqQ)
+ - [Shadcn UI + React JS | A Quick guide](https://www.youtube.com/watch?v=tL6oYbiFe60)
 
 ## Dev tools
 
